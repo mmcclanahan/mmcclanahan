@@ -5,8 +5,8 @@
 
 <!-- 🚀 Currently studying typescript.-->
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
-- 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
-- 🗨️ Feel free to inquire about any topic.
+- 🤝 Eager to collaborate on diverse projects.
+- 🗨️ Feel free to ask questions about any topic.
 
 
 ## ✉ Find me on:
