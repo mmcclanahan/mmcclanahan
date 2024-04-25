@@ -3,10 +3,9 @@
  <span><img src="https://img.shields.io/github/followers/mmcclanahan?label=Followers&logo=Github"/></span>
 </div>
 
-<!-- 🚀 Currently studying typescript.-->
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
-- 🤝 Eager to collaborate on diverse projects.
-- 🗨️ Feel free to ask questions about any topic.
+- 🤝 Eager to collaborate!
+- 🗨️ Feel free to ask questions.
 
 
 ## ✉ Find me on:
